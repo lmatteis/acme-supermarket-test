@@ -1,3 +1,11 @@
+# Install
+
+First install the jest devDependency I added using `npm install`
+
+Then, to run tests and see the program's output, run `npm run test`
+
+Note: make sure you're using at least node version v8.9.3.
+
 # ACME Supermarket
 
 Create a solution for the ACME Supermarket problem.
